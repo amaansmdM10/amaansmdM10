@@ -30,9 +30,9 @@
 ## Stats 
 
 <a href="#stats">
-<img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=amaansmdM10&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=amaansmdM10&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
   
 <a href="#stats">
-<img align="center" alt="Krish's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/username=amaansmdM10&layout=compact&langs_count=8&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/username=amaansmdM10&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
