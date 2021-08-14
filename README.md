@@ -34,5 +34,5 @@
 </a>
   
 <a href="#stats">
-<img align="center" alt="Krish's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&langs_count=8&theme=tokyonight" />
+<img align="center" alt="Krish's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=amaansmdM10&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
