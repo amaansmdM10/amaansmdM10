@@ -3,7 +3,7 @@
 
 ## About Me
 - 🔭 I’m currently on develop my coding skills
-- 🌱 I’m currently learning React-js and java script
+- 🌱 I’m currently learning API and Cloud-Computing
 - 👯 I’m looking to collaborate on webdevelopment projects
 - 🔭 I’m looking for help with career 🏢
 - 💬 Ask me about anything [here](https://github.com/amaansmdM10/amaansmdM10/issues)
