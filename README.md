@@ -30,7 +30,7 @@
 ## Stats 
 
 <a href="#stats">
-<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=amaansmdM10&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=amaansmdM10&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
   
 <a href="#stats">
