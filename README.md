@@ -30,7 +30,7 @@
 ## Stats 
 
 <a href="#stats">
-<img align="center" src="https://camo.githubusercontent.com/d7d78f9680e4c24ec97557cc794f29123e08daa0f090c6c079f3feb3efdfebeb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d47754e4430576e3135312673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=amaansmdM10&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight" style="max-width: 100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaansmdM10&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight" style="max-width: 100%;">
 </a>
   
 <a href="#stats">
