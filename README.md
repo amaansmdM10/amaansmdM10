@@ -8,7 +8,7 @@
 - 🔭 I’m looking for help with career 🏢
 - 💬 Ask me about anything [here](https://github.com/amaansmdM10/amaansmdM10/issues)
 - 😄 Kinda Games Addict(Fav: Fortnite,Fifa,pes)🤗
-- ⚡ Fun fact: iam a fcuker  🤗
+- ⚡ Fun fact: iam a introvert  🤗
 
 <br />
 <br />
