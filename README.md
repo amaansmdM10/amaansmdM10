@@ -35,7 +35,8 @@
 
 
 <br />
-<br /
+<br />
+<hr/>
 ## Stats 
 
 <a href="#stats">
