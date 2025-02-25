@@ -41,6 +41,6 @@
 ## Stats 
 
 <a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuND0Wn151&show_icons=true&include_all_commits=true&theme=tokyonight"  /><br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amaansmdM10&show_icons=true&include_all_commits=true&theme=tokyonight"  /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&theme=tokyonight" />
 </a>
