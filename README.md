@@ -78,6 +78,7 @@
 <p align="Left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaansmdM10&theme=tokyonight" height="180px"/>
 </p>
+
 <!--
 ### 🟢 Contribution Activity
 
@@ -86,9 +87,10 @@
 </p>
 -->
 
+---
 ## ✨ Let's Connect  
 Reach out through [GitHub Issues](https://github.com/amaansmdM10/amaansmdM10/issues) or feel free to connect via LinkedIn!
 
 ---
 
-⭐ *Star this profile if you find it helpful!*  
+<!--⭐ *Star this profile if you find it helpful!*-->  
