@@ -39,9 +39,9 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" />
-  <img src="" width="40px" />https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hadoop/hadoop-original-wordmark.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40px" />
-  <img src="https://www.cleanpng.com/png-databricks-logo-8402604/" width="40px" />
+  <img src="https://banner2.cleanpng.com/lnd/20250227/fg/db9c9aff008256468c08e44e725b98.webp" width="40px" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="25px" />
 </p>
 
