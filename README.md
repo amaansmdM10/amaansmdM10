@@ -75,16 +75,16 @@
 
 ### 🚀 Streak Stats
 
-<p align="center">
+<p align="Left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaansmdM10&theme=tokyonight" height="180px"/>
 </p>
-
+<!--
 ### 🟢 Contribution Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaansmdM10&theme=tokyonight"/>
 </p>
-
+-->
 ---
 
 ## ✨ Let's Connect  
