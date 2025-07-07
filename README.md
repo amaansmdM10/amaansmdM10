@@ -85,7 +85,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaansmdM10&theme=tokyonight"/>
 </p>
 -->
----
 
 ## ✨ Let's Connect  
 Reach out through [GitHub Issues](https://github.com/amaansmdM10/amaansmdM10/issues) or feel free to connect via LinkedIn!
