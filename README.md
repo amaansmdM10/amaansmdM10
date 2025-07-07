@@ -66,12 +66,25 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=amaansmdM10&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansmdM10&layout=compact&theme=tokyonight" height="180px"/> 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaansmdM10&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansmdM10&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+### 🚀 Streak Stats
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaansmdM10&theme=tokyonight" height="180px"/>
 </p>
+
+### 🟢 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaansmdM10&theme=tokyonight" />
+</p>
+
 ---
 
 ## ✨ Let's Connect  
